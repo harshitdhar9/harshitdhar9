@@ -11,12 +11,8 @@
 
 ---
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitdhar9" alt="github-trophy" /></a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/nightbob551" target="_blank"><img src="https://img.shields.io/twitter/follow/nightbob551?logo=twitter&style=for-the-badge" alt="nightbob551" /></a> 
 </p>
 
 - 🌱 I’m currently learning **NLP and TensorFlow**

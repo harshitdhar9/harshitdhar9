@@ -42,11 +42,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitdhar9&show_icons=true&locale=en&layout=compact" alt="Top languages" style="margin-right: 10px;" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&locale=en" alt="GitHub stats" style="margin-right: 10px;" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitdhar9&show_icons=true&locale=en&layout=compact" alt="Top languages" style="display: inline-block; vertical-align: top; margin-right: 10px; height: 200px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitdhar9&show_icons=true&locale=en" alt="GitHub stats" style="display: inline-block; vertical-align: top; margin-right: 10px; height: 200px;" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitdhar9&" alt="GitHub streak" style="display: inline-block; vertical-align: top; height: 200px;" />
 </div>
+
+
 
 

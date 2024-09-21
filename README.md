@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Dhar</h1>
-<h3 align="center">A passionate software developer with a keen interest in artificial intelligence, backend development, and always striving to enhance my skills.</h3>
-
 <div align="center">
-  <img width="400" src="https://i.pinimg.com/originals/2c/41/f9/2c41f9b5411045e59ef08bbe5045773e.gif" alt="coding animation">
+  <img height="200" width="1000" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" alt="coding animation">
 </div>
+<h3 align="center">A passionate software developer with a keen interest in artificial intelligence, backend development, and always striving to enhance my skills.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=harshitdhar9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
